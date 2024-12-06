@@ -143,5 +143,8 @@ uint64_t * Addition(uint64_t* a, uint64_t* b)
     {
         return Subtraction(s,PRM,9);
     }
-    else{ return s;}
+    else
+    { 
+        return s;
+    }
 }
